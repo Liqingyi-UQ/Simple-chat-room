@@ -2,7 +2,7 @@
 Written in Python. A chat room for online multiplayer. There is no UI design. Use Python's threading. This is my first personal project on COMS 3200 Computer Network 1 at UQ
 
 
-## statement:
+## Statement:
 This personal project was written as part C of the A1 assignment in UQ's Computer Network 1 (COMS 3200) in the first semester of 2023. Uploaded to Github after the author graduated. Do not copy or reprint without permission
 
 ## Introduction
